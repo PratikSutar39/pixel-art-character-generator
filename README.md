@@ -27,7 +27,7 @@ This separation prevents overfitting and allows precise control over identity an
 
 ## Example Output
 ![Pixel Art Output](examples/outputs/sample.png.png)
-
+![Pixel Art Output](examples/outputs/ComfyUI_00075_.png)
 ---
 
 ## Tech Stack
