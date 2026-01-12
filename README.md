@@ -41,13 +41,21 @@ This separation prevents overfitting and allows precise control over identity an
 ## Repository Structure
 
 pixel-art-character-generator/
+
 ├── workflows/
+
 │ └── comfyui_workflow.json
+
 ├── loras/
+
 │ ├── identity_lora/
+
 │ └── style_lora/
+
 ├── examples/
+
 │ └── outputs/
+
 ├── README.md
 
 ---
